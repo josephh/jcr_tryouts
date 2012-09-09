@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.day.cq.collab.calendar.impl.JcrUtils"/>
+<fullyQualifiedTypeName name="org.apache.jackrabbit.rmi.repository.RMIRemoteRepository"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.day.crx.rmi.remote.RemoteCRXRepository"/>
+<fullyQualifiedTypeName name="org.apache.jackrabbit.commons.JcrUtils"/>
+<fullyQualifiedTypeName name="org.apache.jackrabbit.rmi.repository.URLRemoteRepository"/>
+<fullyQualifiedTypeName name="java.util.Enumeration"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="com.centrica.jcr.load.xml.XmlLoaderTryout"/>
+<fullyQualifiedTypeName name="java.io.FileFilter"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

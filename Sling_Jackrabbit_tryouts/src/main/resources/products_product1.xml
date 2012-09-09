@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.3 U (http://www.xmlspy.com) by Centrica (Centrica) -->
+<product isExtra="true" asv="true" name="productOne">
+	<excess>87.32</excess>
+	<brands>
+		<contentNode>/content/sysadmin/brands/britishgas</contentNode>
+		<contentNode>/content/sysadmin/brands/sainsbury</contentNode>
+	</brands>
+	<standardPrices>
+		<national>
+			<monthly>11</monthly>
+			<annualDirectDebit>130</annualDirectDebit>
+			<annualCreditCard>135</annualCreditCard>
+		</national>
+		<london>
+			<monthly>13</monthly>
+			<annualDirectDebit>133</annualDirectDebit>
+			<annualCreditCard>138</annualCreditCard>
+		</london>
+	</standardPrices>
+	<discountedPrices>
+		<national>
+			<monthly>10</monthly>
+			<annualDirectDebit>118</annualDirectDebit>
+			<annualCreditCard>121</annualCreditCard>
+		</national>
+		<london>
+			<monthly>11</monthly>
+			<annualDirectDebit>131</annualDirectDebit>
+			<annualCreditCard>136</annualCreditCard>
+		</london>
+	</discountedPrices>
+</product>

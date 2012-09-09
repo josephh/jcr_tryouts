@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.3 U (http://www.xmlspy.com) by Centrica (Centrica) -->
+<productBundle name="productBundleA" active="boolean">
+	<bundleImage>/some/content/dam/file.gif</bundleImage>
+	<mediaCode>pbA</mediaCode>
+	<marketingCopy>You'll save loads if you buy Products Bundle A!</marketingCopy>
+	<keyInclusions>
+		<included>call out charge is included in the price</included>
+		<excluded>cost of replacement parts is not included in the price</excluded>
+	</keyInclusions>
+	<products>
+		<product>
+			<node>/content/sysadmin/products/product1</node>
+			<priceType>discounted</priceType>
+			<customPrices>
+				<national>
+					<monthly>11.1</monthly>
+					<annualDirectDebit>130.1</annualDirectDebit>
+					<annualCreditCard>135.1</annualCreditCard>
+				</national>
+				<london>
+					<monthly>13.1</monthly>
+					<annualDirectDebit>133.1</annualDirectDebit>
+					<annualCreditCard>138.1</annualCreditCard>
+				</london>
+			</customPrices>
+		</product>
+		<product>
+			<node>/content/sysadmin/products/product3</node>
+			<priceType>standard</priceType>
+		</product>
+		<product>
+			<node>/content/sysadmin/products/product2</node>
+			<priceType>standard</priceType>
+			<customPrices>
+				<national>
+					<monthly>12.1</monthly>
+					<annualDirectDebit>120.1</annualDirectDebit>
+					<annualCreditCard>125.1</annualCreditCard>
+				</national>
+				<london>
+					<monthly>12.1</monthly>
+					<annualDirectDebit>123.1</annualDirectDebit>
+					<annualCreditCard>128.1</annualCreditCard>
+				</london>
+			</customPrices>
+		</product>
+	</products>
+	<extras>
+		<extra>
+			<product>
+				<node>/content/sysadmin/products/product1</node>
+				<priceType>discounted</priceType>
+				<customPrices>
+					<national>
+						<monthly>11.11</monthly>
+						<annualDirectDebit>130.11</annualDirectDebit>
+						<annualCreditCard>135.11</annualCreditCard>
+					</national>
+					<london>
+						<monthly>13.11</monthly>
+						<annualDirectDebit>133.11</annualDirectDebit>
+						<annualCreditCard>138.11</annualCreditCard>
+					</london>
+				</customPrices>
+			</product>
+			<product>
+				<node>/content/sysadmin/products/product2</node>
+				<priceType>standard</priceType>
+				<customPrices>
+					<national>
+						<monthly>12.12</monthly>
+						<annualDirectDebit>120.12</annualDirectDebit>
+						<annualCreditCard>125.12</annualCreditCard>
+					</national>
+					<london>
+						<monthly>12.12</monthly>
+						<annualDirectDebit>123.12</annualDirectDebit>
+						<annualCreditCard>128.12</annualCreditCard>
+					</london>
+				</customPrices>
+			</product>
+		</extra>
+	</extras>
+</productBundle>

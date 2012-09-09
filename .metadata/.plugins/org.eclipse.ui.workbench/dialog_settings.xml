@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="-189" key="DIALOG_Y_ORIGIN"/>
+		<item value="-94" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jst.ejb.ui"/>
+			<item value="com.sun.enterprise.jst.server.sunappsrv"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jdt.ui.java/org.eclipse.jdt.junit"/>
+			<item value="org.eclipse.wst.jsdt.ui.java"/>
+			<item value="org.eclipse.jpt"/>
+		</list>
+	</section>
+	<section name="ShowViewDialog">
+		<item value="280" key="DIALOG_WIDTH"/>
+		<item value="org.eclipse.debug.ui.ExpressionView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="307" key="DIALOG_Y_ORIGIN"/>
+		<item value="421" key="DIALOG_HEIGHT"/>
+		<item value="824" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui"/>
+			<item value="org.eclipse.debug.ui"/>
+			<item value="org.eclipse.jdt.ui.java.browsing"/>
+		</list>
+	</section>
+</section>

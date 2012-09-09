@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.3 U (http://www.xmlspy.com) by Centrica (Centrica) -->
+<product productName="productTwo" isExtra="false" excess="88.21" asv="true">
+	<brands>
+		<contentNode>/content/sysadmin/brands/britishgas</contentNode>
+	</brands>
+	<standardPrice>
+		<nationalPrices>
+			<monthly>21</monthly>
+			<annualDirectDebit>241</annualDirectDebit>
+			<annualCreditCard>245</annualCreditCard>
+		</nationalPrices>
+		<londonPrices>
+			<monthly>23</monthly>
+			<annualDirectDebit>243</annualDirectDebit>
+			<annualCreditCard>248</annualCreditCard>
+		</londonPrices>
+	</standardPrice>
+	<discountPrice>
+		<nationalPrices>
+			<monthly>20</monthly>
+			<annualDirectDebit>240</annualDirectDebit>
+			<annualCreditCard>244</annualCreditCard>
+		</nationalPrices>
+		<londonPrices>
+			<monthly>22</monthly>
+			<annualDirectDebit>242</annualDirectDebit>
+			<annualCreditCard>247</annualCreditCard>
+		</londonPrices>
+	</discountPrice>
+</product>
